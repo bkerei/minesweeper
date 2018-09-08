@@ -32,7 +32,7 @@ function startGame() {
 }
 
 //How you know someone won and music...the begining :) Will finish coding audio in js.lib
-var music = document.getElementById('Mission Impossible.mp3').play();
+//var music = document.getElementById('Mission Impossible.mp3').play();
 //document.getElementById('music');
 
 var cellinside = board.cells
