@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', startGame)
-    
+
 //Board Code
 var board = {
     cells: []
